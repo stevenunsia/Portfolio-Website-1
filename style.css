@@ -1,0 +1,31 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.container-fluid {
+    font-weight: bold;
+}
+
+.navbar-brand {
+    background-color: red;
+}
+
+.nav-link{
+}
+
+.nav-item {
+    display: flex;
+    background-color: blue;
+    font-size: 13px;
+}
+
+
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
